@@ -13,7 +13,7 @@ Bu proje, bir domainin WHOIS bilgilerini, DNS kayıtlarını, subdomainlerini, H
 1. Python 3.x'in yüklü olduğundan emin olun.
 2. Gerekli kütüphaneleri yükleyin:
    ```bash
-  pip install -r requirements.txt
+   pip install -r requirements.txt
 
 ##Projeyi Çalıştırın
 python hafta1.py  # WHOIS ve DNS sorgusu için
